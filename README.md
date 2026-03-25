@@ -1,4 +1,4 @@
-\# Chaos-Modulated Spiking Neural Networks for Seizure Detection
+ Chaos-Modulated Spiking Neural Networks for Seizure Detection
 
 
 
